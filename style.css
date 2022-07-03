@@ -1,0 +1,41 @@
+body{
+   margin: 0px;
+   background-color: rgb(231, 165, 231);
+}
+.blog{
+  width: 30%;
+  display: inline-block;
+  font-size: 18px;
+  margin: 20px 0;
+  padding: 10px;
+  margin-left: 10px;
+  border: 6px dotted rgba(255, 0, 0, 0.158);
+  text-align: center;
+}
+.blog img{
+  height: 150px;
+  width: 150px;
+  border: 5px solid black;
+  border-radius: 50%;
+}
+.blog h1{
+  font-weight: 100; 
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: #c32be2;
+  margin-bottom: 10px;
+}
+.blog small{
+  font-weight: 200;
+  margin-bottom: 10px;
+  display: inline-block;
+  color: rgba(139, 0, 139, 0.438);
+}
+.blog p{
+  font-weight: 100;
+  font-family: tahoma;
+  width: 80%;
+  font-size: 15px;
+  margin:0 auto;
+  color: rgb(28, 45, 63);
+  
+}
